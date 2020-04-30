@@ -16,13 +16,13 @@ screen = pygame.display.set_mode((500, 500),0,32)
 # typically changes over time
 # and typically disappears after a certain amount of time
  
-# [loc, velocity, timer]
+# [loc, velocity, timer/radius]
 particles = []
  
 # Loop ------------------------------------------------------- #
 while True:
    
-    # Background --------------------------------------------- #
+    # Background --------------------------------------b------- #
     screen.fill((0,0,0))
     # Taking Mouse position
     mx, my = pygame.mouse.get_pos()
