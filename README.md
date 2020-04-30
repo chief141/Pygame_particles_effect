@@ -8,4 +8,4 @@ Requirements :
 
 You can still run the executable (particles.exe) without any of the requirements.
 
-[!Preview](preview.jpg)
+![Preview](preview.JPG)
