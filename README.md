@@ -7,3 +7,5 @@ Requirements :
 - Pygame1.9 or above
 
 You can still run the executable (particles.exe) without any of the requirements.
+
+[!Preview](preview.jpg)
